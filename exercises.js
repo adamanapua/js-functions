@@ -180,11 +180,11 @@ console.log (newproduct);
  * This function will multiply the values stored in the product and quotient variables.
  * Console.log your result.  
 */
-function checkqQuotient() {
+function checkQuotient() {
 	return product * quotient;
 }
 
-var newquotient = checkqQuotient();
+var newquotient = checkQuotient();
 
 console.log (newquotient);
 
